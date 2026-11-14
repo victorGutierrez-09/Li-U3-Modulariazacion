@@ -2,6 +2,17 @@
 
 Repositorio que contiene códigos de ensamblador con procedimientos, manejo de la pila y macros utilizando la librería Irvine32.
 
+---
+
+##  Datos Generales
+* **Materia:** Lenguajes de Interfaz
+* **Alumno:** Gutierrez Cazarez Victor Alfonso
+* **Docente:** Dr. José Luis Medina Jiménez
+* **Horario:** 9:00- 10:00
+* **Institución:** Instituto Tecnológico de Culiacán
+
+---
+
 ## Contenido y Enlaces a Prácticas
 
 1. **[1. Procedimiento](U3/procedimiento_modularizar.asm)**
